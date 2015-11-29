@@ -5,7 +5,7 @@ A simple, quick (and hacky) wrapper lib for the go-fastping package.
 NOTE: You'll probably have to run this (and tests) via `sudo` or as a privileged user due to raw socket usage.
 
 ## Usage
-```
+```go
 package main
 
 import (
